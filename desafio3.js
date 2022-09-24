@@ -1,4 +1,6 @@
-var listaDePecas = ["Amortecedor" , "Motor", "Filtro de ar"]
+var listaDePecas = ["Amortecedor" , "Motor", "Filtro de ar",
+"Amortecedor" , "Motor", "Filtro de ar", "Amortecedor" , 
+"Motor", "Filtro de ar", "Amortecedor" , "Motor", "Filtro de ar"]
 
 let peso = 50
 if (peso < 100) {
