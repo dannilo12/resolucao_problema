@@ -8,7 +8,7 @@ for ( let cont = 0; cont <= alunos; cont++ ){
     }else if (cont % 2 == 0){
         console.log("O numero " + cont + " é par! ")
     }else{
-        console.log("O numero " + cont + " é impar! ")
+        console.log(`O numero ${cont} é impar! `)
     }
 
 }
