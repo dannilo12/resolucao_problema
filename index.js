@@ -1,6 +1,6 @@
 
 let dataAtual = "24/09/2022"
-let dataEvento = "10/10/2020"
+let dataEvento = "10/10/2022"
 let vaga = 101, idade = 29
 let nomeEvento="show", palestrante="Dannilo", nomeParticipante="bill"
 
