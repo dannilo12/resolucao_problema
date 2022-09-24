@@ -1,13 +1,13 @@
 
-let dataAtual = "24/09/2022"
-let dataEvento = "10/10/2022"
-let vaga = 101, idade = 29
+let dataAtual = 24/09/2022
+let dataEvento = 10/08/2022
+let vaga = 100, idade = 18
 let nomeEvento="show", palestrante="Dannilo", nomeParticipante="bill"
 
-if (dataEvento < dataAtual){
+if (dataEvento > dataAtual){
     console.log("hey!! essa data já passou!")
 }else{
-    console.log("bora bill! Evento cadastrado com sucesso!! " + dataEvento)
+    console.log("bora bill! Evento cadastrado com sucesso!! ")
 }
 
 if (idade < 18){
