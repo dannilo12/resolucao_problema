@@ -13,3 +13,12 @@ if (listaDePecas.length < 10 ){
 }else{
     console.log("Não há mais espaço para cadastro!")
 }
+
+let nomePeca = "Disco de freio"
+if(nomePeca.length > 3){
+    console.log("O nome da peça está de acordo para cadastro")
+}else if (nomePeca == 0){
+    console.log("Nome da peça não pode ser vazio")
+}else {
+    console.log("O nome deve ter mais de 3 caracteres!")
+}
