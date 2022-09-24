@@ -14,7 +14,7 @@ if (listaDePecas.length < 10 ){
     console.log("Não há mais espaço para cadastro!")
 }
 
-let nomePeca = ""
+let nomePeca = "ar"
 if(nomePeca.length > 3){
     console.log("O nome da peça está de acordo para cadastro")
 }else if (nomePeca == 0){
